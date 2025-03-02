@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+<h1>Hi there, I'm Nataliia</h1>
+<h2>Chișinău, Moldova</h2>
+<h3>3rd-year student at UTM / Faculty of Computers, Informatics, and Microelectronics</h3>
+
+</div>
+
 <!--
 **Natalyakba/Natalyakba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
