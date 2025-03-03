@@ -4,6 +4,7 @@
 <h3>3rd-year student at UTM / Faculty of Computers, Informatics, and Microelectronics</h3>
 
 Email: nataliia.mangasarian@gmail.com
+Download my CV: [CV](./CV.pdf)
 
 <!--
 **Natalyakba/Natalyakba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
