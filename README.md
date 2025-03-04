@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Nataliia
+
+<h2>Chișinău, Moldova</h2>
+<h3>3rd-year student at UTM / Faculty of Computers, Informatics, and Microelectronics</h3>
+
+<div>Email: nataliia.mangasarian@icloud.com</div>
+<div>My CV: [CV](./CV.pdf)</div>
 
 <!--
 **Natalyakba/Natalyakba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
