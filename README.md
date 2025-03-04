@@ -3,8 +3,8 @@
 <h2>Chișinău, Moldova</h2>
 <h3>3rd-year student at UTM / Faculty of Computers, Informatics, and Microelectronics</h3>
 
-<div>Email: nataliia.mangasarian@icloud.com</div>
-<div>My CV: [CV](./CV.pdf)</div>
+Email: nataliia.mangasarian@icloud.com
+and my CV: [CV](./CV.pdf)
 
 <!--
 **Natalyakba/Natalyakba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
