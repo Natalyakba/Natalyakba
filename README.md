@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Nataliia
 
 <h2>Chișinău, Moldova</h2>
-<h3>3rd-year student at UTM / Faculty of Computers, Informatics, and Microelectronics</h3>
+<h3>UTM'2025 / Faculty of Computers, Informatics, and Microelectronics</h3>
+<h3>Informatica aplicată</h3>
+
 
 Email: nataliia.mangasarian@icloud.com
 and my [CV](./CV.pdf)
